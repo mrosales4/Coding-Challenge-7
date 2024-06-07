@@ -33,3 +33,5 @@ form.addEventListener('submit', function(event) {
 
   // Append feedback to display area
   feedbackDisplay.appendChild(feedbackDiv);
+  }
+      )
